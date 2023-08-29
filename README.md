@@ -1,0 +1,1 @@
+# grant-com.draco.resolutionchanger-android.permission.WRITE_SECURE_SETTINGS
